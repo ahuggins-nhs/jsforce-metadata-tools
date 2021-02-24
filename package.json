@@ -1,6 +1,6 @@
 {
-  "name": "jsforce-metadata-tools",
-  "version": "1.3.1",
+  "name": "@nhs-llc/jsforce-metadata-tools",
+  "version": "1.3.2",
   "description": "Tools for deploying/retrieving package files using Salesforce Metadata API via JSforce",
   "keywords": [
     "salesforce",
