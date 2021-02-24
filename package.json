@@ -14,6 +14,9 @@
     "metadata"
   ],
   "author": "Shinichi Tomita <shinichi.tomita@gmail.com>",
+  "contributors": [
+    "Aaron Huggins <ahuggins@nethealthshops.com>"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/jsforce/jsforce-metadata-tools.git"
